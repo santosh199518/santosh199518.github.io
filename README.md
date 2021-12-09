@@ -29,7 +29,6 @@
 
 ## Sections 📚
 ✔️ About me\
-✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Education\
