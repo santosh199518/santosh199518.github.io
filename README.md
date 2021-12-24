@@ -1,8 +1,6 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://santosh199518.github.io
-
 ### Website Preview
 <p align="center"> 
   <kbd>
